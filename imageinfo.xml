@@ -1,0 +1,14 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/frontispiece.jpg" filesize="119179" filedate="2021-06-12 15:27:54" width="500px" height="720px"/>
+<image path="images/logo.png" filesize="15074" filedate="2021-06-12 15:31:00" width="199px" height="223px"/>
+<image path="images/new-cover.jpg" filesize="70456" filedate="2021-06-14 19:53:23" width="480px" height="720px"/>
+<image path="images/p016.jpg" filesize="125153" filedate="2021-06-12 15:36:17" width="720px" height="498px"/>
+<image path="images/p051.jpg" filesize="122800" filedate="2021-06-12 15:41:18" width="720px" height="495px"/>
+<image path="images/p060.jpg" filesize="126473" filedate="2021-06-14 18:53:44" width="720px" height="506px"/>
+<image path="images/p088.jpg" filesize="134594" filedate="2021-06-14 18:53:44" width="720px" height="500px"/>
+<image path="images/p121.jpg" filesize="123052" filedate="2021-06-14 18:53:44" width="720px" height="498px"/>
+<image path="images/p155.jpg" filesize="118200" filedate="2021-06-14 18:53:44" width="501px" height="720px"/>
+<image path="images/p192.jpg" filesize="129911" filedate="2021-06-14 18:53:45" width="720px" height="499px"/>
+<image path="images/qr65697.png" filesize="267" filedate="2021-06-26 10:45:27" width="148px" height="148px"/>
+<image path="images/titlepage.png" filesize="10664" filedate="2021-06-25 19:30:11" width="494px" height="720px"/>
+</images>
